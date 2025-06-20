@@ -14,15 +14,24 @@
     "@types/react-modal": "^3.16.3",
     "@types/react-router-dom": "^5.3.3",
     "typescript": "~5.8.3",
-    "vite": "^6.3.5"
+    "vite": "^6.3.5",
+    "vite-plugin-dts": "^4.5.4"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^2.8.2",
     "axios": "^1.10.0",
     "clsx": "^2.1.1",
     "formik": "^2.4.6",
     "modern-normalize": "^3.0.1",
+    "persist": "^0.2.7",
     "react-hot-toast": "^2.5.2",
     "react-modal": "^3.16.3",
-    "react-spinners": "^0.17.0"
+    "react-redux": "^9.2.0",
+    "react-router-dom": "^7.6.2",
+    "react-spinners": "^0.17.0",
+    "redux": "^5.0.1",
+    "redux-persist": "^6.0.0",
+    "use-debounce": "^10.0.5",
+    "yup": "^1.6.1"
   }
 }
